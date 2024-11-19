@@ -19,7 +19,8 @@ export const darkColors = {
 
 const mainContainer:ViewStyle={
     flex: 1, 
-    padding:10,
+    padding:10,    
+    height:"95%"
     
 }
     
